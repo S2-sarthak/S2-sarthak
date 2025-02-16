@@ -1,4 +1,4 @@
-![logo](https://github.com/S2-sarthak/S2-sarthak/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Sarthak Dokhe</h1>
 <h3 align="center">A passionate graphics designer from India</h3>
 
