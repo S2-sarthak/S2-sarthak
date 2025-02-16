@@ -1,4 +1,4 @@
-![logo](Beige Minimalist Personal Business LinkedIn Banner.png)
+![logo](sarthak.png)
 <h1 align="center">Hi 👋, I'm Sarthak Dokhe</h1>
 <h3 align="center">A passionate graphics designer from India</h3>
 
