@@ -26,7 +26,7 @@
   </br> </br>
   </br> 
   </br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=s2-sarthak&show_icons=true&locale=en" alt="s2-sarthak" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=s2-sarthak&show_icons=true&locale=en" alt="s2-sarthak" /></p>
  </br> </br>
   </br>
   </br> </br>
