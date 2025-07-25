@@ -33,4 +33,7 @@
   </br>
  </br>
   </br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=s2-sarthak&" alt="s2-sarthak" /></p>
+  <br>
+  </br>
+  <br>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=s2-sarthak&" alt="s2-sarthak" /></p>
